@@ -1,0 +1,25 @@
+body {
+  background-image: url("sun.jpg");
+}
+
+button,
+div,
+form,
+input {
+  margin: 10px;
+}
+
+#gif-output {
+  display: flex;
+  flex-flow: row wrap;
+  text-align: center;
+  width: 100%;
+}
+
+.gif {
+  margin: 10px;
+}
+
+.container {
+  text-align: center;
+}
